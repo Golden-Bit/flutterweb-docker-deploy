@@ -1,0 +1,10 @@
+^C:\USERS\GOLDEN BIT\DESKTOP\PROJECTS_IN_PROGRESS\GOLDENPROJECTS\GOLDEN_BIT\REPOSITORIES\FLUTTERWEB-DOCKER-DEPLOY\FLUTTER_PROJECT\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/windows" "-BC:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64" --check-stamp-file "C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

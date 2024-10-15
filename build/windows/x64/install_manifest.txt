@@ -1,0 +1,10 @@
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,28 @@
+^C:\USERS\GOLDEN BIT\DESKTOP\PROJECTS_IN_PROGRESS\GOLDENPROJECTS\GOLDEN_BIT\REPOSITORIES\FLUTTERWEB-DOCKER-DEPLOY\FLUTTER_PROJECT\BUILD\WINDOWS\X64\CMAKEFILES\E1905C96D03D66A862FB06503BA136F2\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Flutter\flutter "PROJECT_DIR=C:\Users\Golden Bit\Desktop\projects_in_progress\GoldenProjects\golden_bit\repositories\flutterweb-docker-deploy\flutter_project" FLUTTER_ROOT=C:\Flutter\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Golden Bit\Desktop\projects_in_progress\GoldenProjects\golden_bit\repositories\flutterweb-docker-deploy\flutter_project\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Golden Bit\Desktop\projects_in_progress\GoldenProjects\golden_bit\repositories\flutterweb-docker-deploy\flutter_project" "FLUTTER_TARGET=C:\Users\Golden Bit\Desktop\projects_in_progress\GoldenProjects\golden_bit\repositories\flutterweb-docker-deploy\flutter_project\lib\main.dart" DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Golden Bit\Desktop\projects_in_progress\GoldenProjects\golden_bit\repositories\flutterweb-docker-deploy\flutter_project\.dart_tool\package_config.json" C:/Flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GOLDEN BIT\DESKTOP\PROJECTS_IN_PROGRESS\GOLDENPROJECTS\GOLDEN_BIT\REPOSITORIES\FLUTTERWEB-DOCKER-DEPLOY\FLUTTER_PROJECT\BUILD\WINDOWS\X64\CMAKEFILES\97A86DEE3F42C3E3BD5D36312039C59D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\GOLDEN BIT\DESKTOP\PROJECTS_IN_PROGRESS\GOLDENPROJECTS\GOLDEN_BIT\REPOSITORIES\FLUTTERWEB-DOCKER-DEPLOY\FLUTTER_PROJECT\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/windows" "-BC:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64" --check-stamp-file "C:/Users/Golden Bit/Desktop/projects_in_progress/GoldenProjects/golden_bit/repositories/flutterweb-docker-deploy/flutter_project/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Golden Bit\Desktop\projects_in_progress\GoldenProjects\golden_bit\repositories\flutterweb-docker-deploy\flutter_project\build\windows\x64\CMakeFiles\759d51bd9a7b021731e985921f4e7c32\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2D4621A2-02C9-337F-B5A1-60EEA80B2AD7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
